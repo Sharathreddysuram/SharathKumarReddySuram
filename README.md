@@ -1,8 +1,7 @@
-SHARATH KUMAR REDDY SURAM
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sharath%20Kumar%20Suram&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=☕%20Java%20Full%20Stack%20Developer%20%7C%20Cloud%20%26%20Microservices%20Engineer&descAlignY=65&descSize=17&descColor=7ecff4&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sharath%20Kumar%20Suram&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Java%20Full%20Stack%20Developer%20%7C%20Cloud%20%26%20Microservices%20Engineer&descAlignY=65&descSize=17&descColor=7ecff4&animation=fadeIn" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -13,12 +12,12 @@ SHARATH KUMAR REDDY SURAM
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharath%20Kumar%20Suram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharathkumarsuram/)
 [![Email](https://img.shields.io/badge/Gmail-sharathkumarsuramjobs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharathkumarsuramjobs@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Sharathreddysuram-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharathreddysuram)
+[![GitHub](https://img.shields.io/badge/GitHub-SharathKumarReddySuram-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SharathKumarReddySuram)
 [![Location](https://img.shields.io/badge/📍-Cincinnati%2C%20Ohio%2C%20USA-28a745?style=for-the-badge)](https://maps.google.com/?q=Cincinnati,OH)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sharathreddysuram&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=SharathKumarReddySuram&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 ![Years Badge](https://img.shields.io/badge/Experience-4%2B%20Years-orange?style=for-the-badge)
 ![AZ-900](https://img.shields.io/badge/Microsoft%20Certified-AZ--900-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
@@ -200,25 +199,25 @@ Secure, multi-modal attendance platform for large institutions.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sharathreddysuram&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7ecff4&icon_color=7ecff4"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharathreddysuram&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ecff4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SharathKumarReddySuram&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7ecff4&icon_color=7ecff4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharathKumarReddySuram&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ecff4"/>
 
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharathreddysuram&theme=tokyonight&hide_border=true&background=0d1117&ring=7ecff4&fire=7ecff4&currStreakLabel=7ecff4" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharathreddysuram&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7ecff4&line=2c5364&point=7ecff4" width="100%"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SharathKumarReddySuram&theme=tokyonight&hide_border=true&background=0d1117&ring=7ecff4&fire=7ecff4&currStreakLabel=7ecff4" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sharathreddysuram&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SharathKumarReddySuram&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7ecff4&line=2c5364&point=7ecff4" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SharathKumarReddySuram&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 </div>
 
 ---
@@ -246,7 +245,7 @@ Secure, multi-modal attendance platform for large institutions.
 
 | 💼 LinkedIn | 📧 Email | 🐙 GitHub |
 |:---:|:---:|:---:|
-| [linkedin.com/in/sharathkumarsuram](https://www.linkedin.com/in/sharathkumarsuram/) | [sharathkumarsuramjobs@gmail.com](mailto:sharathkumarsuramjobs@gmail.com) | [Sharathreddysuram](https://github.com/Sharathreddysuram) |
+| [linkedin.com/in/sharathkumarsuram](https://www.linkedin.com/in/sharathkumarsuram/) | [sharathkumarsuramjobs@gmail.com](mailto:sharathkumarsuramjobs@gmail.com) | [SharathKumarReddySuram](https://github.com/SharathKumarReddySuram) |
 
 <br/>
 
