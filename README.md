@@ -1,22 +1,22 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sharath%20Kumar%20Suram&fontSize=50&fontColor=fff&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20%7C%20Cloud%20%26%20Microservices%20Engineer&descSize=18&descAlignY=62&descColor=7ecff4" />
+# **Sharath Kumar Suram**
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7ECFF4&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Microservices+Architect;React+%7C+Angular+%7C+Full+Stack+Engineer;AWS+%7C+Azure+%7C+Cloud+Native+Developer;Kafka+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;4%2B+Years+of+Enterprise+Engineering" alt="Typing SVG" />
+### ☕ Java Full Stack Developer | Cloud & Microservices Engineer
 
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharath%20Kumar%20Suram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharathkumarsuram/)
-[![Email](https://img.shields.io/badge/Gmail-sharathkumarsuramjobs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharathkumarsuramjobs@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-SharathKumarReddySuram-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SharathKumarReddySuram)
-[![Location](https://img.shields.io/badge/📍-Cincinnati%2C%20Ohio%2C%20USA-28a745?style=for-the-badge)](https://maps.google.com/?q=Cincinnati,OH)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Microservices;React+%7C+Angular+%7C+Full+Stack+Engineer;AWS+%7C+Azure+%7C+Cloud+Native;Kafka+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;4%2B+Years+of+Enterprise+Engineering" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SharathKumarReddySuram&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Years Badge](https://img.shields.io/badge/Experience-4%2B%20Years-orange?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharath%20Kumar%20Suram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharathkumarsuram/)
+[![Email](https://img.shields.io/badge/Gmail-sharathkumarsuramjobs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharathkumarsuramjobs@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Sharathreddysuram-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharathreddysuram)
+[![Location](https://img.shields.io/badge/Cincinnati%2C%20Ohio%2C%20USA-28a745?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Cincinnati,OH)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sharathreddysuram&label=Profile+Views&color=0e75b6&style=for-the-badge)
+![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-orange?style=for-the-badge)
 ![AZ-900](https://img.shields.io/badge/Microsoft%20Certified-AZ--900-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
@@ -25,22 +25,15 @@
 
 ## 👨‍💻 About Me
 
-```java
-public class SharathKumarSuram {
+Hi! I'm **Sharath Kumar Suram**, a passionate **Java Full Stack Developer** with **4+ years** of experience building scalable, high-performance enterprise systems.
 
-    String[] currentRole    = {"Full Stack Java Developer", "Velera (Fintech)"};
-    String   education      = "MS Computer Science @ University of Cincinnati (2024–2026)";
-    String[] expertise      = {"Spring Boot Microservices", "Cloud-Native Architecture",
-                                "RESTful APIs", "CI/CD Automation", "Event-Driven Systems"};
-    String[] aiTools        = {"GitHub Copilot", "ChatGPT", "Cursor AI"};
-    String   certification  = "Microsoft Certified: Azure Fundamentals (AZ-900)";
-    String   location       = "Cincinnati, Ohio, USA";
-
-    String getFunFact() {
-        return "I reduced loan processing time by 32% with one Kafka-driven refactor 🚀";
-    }
-}
-```
+- 🏢 Currently at **Velera** building fintech loan origination platforms with Java, Spring Boot & Angular
+- 🎓 Pursuing **MS in Computer Science** at the **University of Cincinnati** (2024–2026)
+- ⚙️ Expert in **Spring Boot microservices**, **event-driven architecture with Kafka**, and **CI/CD automation**
+- ☁️ Hands-on with **AWS** and **Microsoft Azure** — certified in **Azure Fundamentals (AZ-900)**
+- 🤖 Actively using AI dev tools: **GitHub Copilot**, **ChatGPT**, **Cursor AI**
+- 🚀 Fun fact: I reduced loan processing time by **32%** with a single Kafka-driven refactor!
+- 📍 Based in **Cincinnati, Ohio, USA**
 
 ---
 
@@ -106,44 +99,41 @@ public class SharathKumarSuram {
 
 <details>
 <summary><b>🏦 Velera — Full Stack Java Developer</b> &nbsp;|&nbsp; Oct 2025 – Present &nbsp;|&nbsp; USA</summary>
-
 <br/>
 
-- Developed loan origination workflows using **Java, Spring Boot, Angular & PostgreSQL**, reducing average loan processing time by **32%**
+- Developed loan origination workflows using **Java, Spring Boot, Angular & PostgreSQL**, reducing loan processing time by **32%**
 - Built **Kafka-driven microservices** for async credit scoring and account updates, improving onboarding turnaround by **22%**
-- Optimized Spring Data JPA repositories, SQL queries & PostgreSQL indexes → **28% lower latency** on loan-processing endpoints
-- Implemented secure REST APIs with **Spring Security, JWT & RBAC** across 20+ endpoints for sensitive financial data
-- Containerized 8+ services with **Docker** and automated **Azure DevOps CI/CD** pipelines, reducing rollback incidents by **35%**
+- Optimized Spring Data JPA, SQL queries & PostgreSQL indexes → **28% lower latency** on loan-processing endpoints
+- Implemented secure REST APIs with **Spring Security, JWT & RBAC** across 20+ endpoints
+- Containerized 8+ services with **Docker** and automated **Azure DevOps CI/CD**, reducing rollback incidents by **35%**
 - Maintained **99.9% platform uptime** while resolving 50+ production tickets per sprint
 
 </details>
 
 <details>
 <summary><b>🏫 Digital Technology Solutions — Software Engineer</b> &nbsp;|&nbsp; Sep 2024 – Sep 2025 &nbsp;|&nbsp; USA</summary>
-
 <br/>
 
 - Designed **Spring Boot microservices + Apache Kafka** to process **500K+ async events daily**
-- Built Java/Spring MVC backend for College of Medicine web platforms, improving user engagement by **30%**
-- Automated **Azure Pipelines & Jenkins CI/CD** with Kubernetes deployments, increasing release frequency by **25%**
-- Reduced critical defects by **40%** via SonarQube integration with **85%+ unit test coverage**
-- Built reusable **React + TypeScript** components in Storybook, reducing frontend effort by **15%** across 5 teams
+- Built Java/Spring MVC backend for College of Medicine web platforms, improving engagement by **30%**
+- Automated **Azure Pipelines & Jenkins CI/CD** with Kubernetes, increasing release frequency by **25%**
+- Reduced critical defects by **40%** via SonarQube with **85%+ unit test coverage**
+- Built reusable **React + TypeScript** Storybook components, cutting frontend effort by **15%** across 5 teams
 - Mentored 3 junior engineers on Spring Boot, REST API design & Agile delivery
 
 </details>
 
 <details>
 <summary><b>💳 HCLTech — Full Stack Java Developer</b> &nbsp;|&nbsp; Jan 2022 – Jul 2024 &nbsp;|&nbsp; India</summary>
-
 <br/>
 
-- Designed a transaction management platform supporting **1M+ daily** account, transfer & payment transactions
-- Secured 15+ backend services with **Spring Security, JWT & RBAC** for PCI DSS-aligned controls
-- Automated **Jenkins & Docker CI/CD** achieving **95% code coverage** and reducing deployment time by **40%**
-- Scaled cloud services on **AWS Lambda, API Gateway, S3 & RDS** with **30% faster** response times via Redis caching
-- Modernized 10+ **React.js + Redux** UI modules with WCAG-compliant components, boosting page performance by **25%**
-- Implemented **ELK Stack & AWS CloudWatch** monitoring, cutting issue detection time by **50%**
-- Reviewed 200+ pull requests; mentored 4 junior engineers
+- Designed transaction management platform supporting **1M+ daily** transactions
+- Secured 15+ backend services with **Spring Security, JWT & RBAC** for PCI DSS compliance
+- Achieved **95% code coverage** and reduced deployment time by **40%** via Jenkins & Docker CI/CD
+- Scaled cloud services on **AWS Lambda, API Gateway, S3 & RDS** with **30% faster** response via Redis caching
+- Modernized 10+ **React.js + Redux** modules with WCAG-compliant components, boosting performance by **25%**
+- Cut issue detection time by **50%** with **ELK Stack & AWS CloudWatch** monitoring
+- Reviewed 200+ PRs; mentored 4 junior engineers
 
 </details>
 
@@ -197,25 +187,25 @@ Secure, multi-modal attendance platform for large institutions.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SharathKumarReddySuram&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7ecff4&icon_color=7ecff4"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharathKumarReddySuram&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ecff4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sharathreddysuram&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharathreddysuram&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SharathKumarReddySuram&theme=tokyonight&hide_border=true&background=0d1117&ring=7ecff4&fire=7ecff4&currStreakLabel=7ecff4" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SharathKumarReddySuram&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7ecff4&line=2c5364&point=7ecff4" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Sharathreddysuram&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SharathKumarReddySuram&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharathreddysuram&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sharathreddysuram&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 </div>
 
 ---
@@ -229,28 +219,16 @@ Secure, multi-modal attendance platform for large institutions.
 
 ---
 
-## 📊 Coding Activity
-
-<!--START_SECTION:waka-->
-> 💡 *WakaTime stats will appear here once WakaTime is connected to your GitHub profile.*
-<!--END_SECTION:waka-->
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
 | 💼 LinkedIn | 📧 Email | 🐙 GitHub |
 |:---:|:---:|:---:|
-| [linkedin.com/in/sharathkumarsuram](https://www.linkedin.com/in/sharathkumarsuram/) | [sharathkumarsuramjobs@gmail.com](mailto:sharathkumarsuramjobs@gmail.com) | [SharathKumarReddySuram](https://github.com/SharathKumarReddySuram) |
+| [linkedin.com/in/sharathkumarsuram](https://www.linkedin.com/in/sharathkumarsuram/) | [sharathkumarsuramjobs@gmail.com](mailto:sharathkumarsuramjobs@gmail.com) | [Sharathreddysuram](https://github.com/Sharathreddysuram) |
 
 <br/>
 
 > 💬 *"First, solve the problem. Then, write the code."* — John Johnson
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=7ecff4&fontAlignY=65" />
 
 </div>
