@@ -13,11 +13,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Sharathreddysuram-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharathreddysuram)
 [![Location](https://img.shields.io/badge/Cincinnati%2C%20Ohio%2C%20USA-28a745?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Cincinnati,OH)
 
-<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sharathreddysuram&label=Profile+Views&color=0e75b6&style=for-the-badge)
-![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-orange?style=for-the-badge)
-![AZ-900](https://img.shields.io/badge/Microsoft%20Certified-AZ--900-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
 
@@ -28,7 +24,7 @@
 Hi! I'm **Sharath Kumar Suram**, a passionate **Java Full Stack Developer** with **4+ years** of experience building scalable, high-performance enterprise systems.
 
 - 🏢 Currently at **Velera** building fintech loan origination platforms with Java, Spring Boot & Angular
-- 🎓 Pursuing **MS in Computer Science** at the **University of Cincinnati** (2024–2026)
+- 🎓 Graduated with **MS in Computer Science** from the **University of Cincinnati** (2026)
 - ⚙️ Expert in **Spring Boot microservices**, **event-driven architecture with Kafka**, and **CI/CD automation**
 - ☁️ Hands-on with **AWS** and **Microsoft Azure** — certified in **Azure Fundamentals (AZ-900)**
 - 🤖 Actively using AI dev tools: **GitHub Copilot**, **ChatGPT**, **Cursor AI**
@@ -215,7 +211,7 @@ Secure, multi-modal attendance platform for large institutions.
 | 🏆 Credential | 🏫 Institution | 📅 Year | ✅ Status |
 |---|---|---|---|
 | Azure Fundamentals (AZ-900) | Microsoft | 2024 | ✅ Certified |
-| MS in Computer Science | University of Cincinnati | 2024–2026 | 🎓 In Progress |
+| MS in Computer Science | University of Cincinnati | 2026 | ✅ Graduated |
 
 ---
 
