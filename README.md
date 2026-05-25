@@ -1,4 +1,3 @@
-                               SHARATH KUMAR REDDY SURAM
 <div align="center">
 
 <!-- Animated header banner -->
