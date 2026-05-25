@@ -1,12 +1,11 @@
+                               SHARATH KUMAR REDDY SURAM
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sharath%20Kumar%20Suram&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Java%20Full%20Stack%20Developer%20%7C%20Cloud%20%26%20Microservices%20Engineer&descAlignY=65&descSize=17&descColor=7ecff4&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sharath%20Kumar%20Suram&fontSize=50&fontColor=fff&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20%7C%20Cloud%20%26%20Microservices%20Engineer&descSize=18&descAlignY=62&descColor=7ecff4" />
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7ECFF4&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Microservices+Architect;React+%7C+Angular+%7C+Full+Stack+Engineer;AWS+%7C+Azure+%7C+Cloud+Native+Developer;Kafka+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;4%2B+Years+Building+Enterprise+Systems" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7ECFF4&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Microservices+Architect;React+%7C+Angular+%7C+Full+Stack+Engineer;AWS+%7C+Azure+%7C+Cloud+Native+Developer;Kafka+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;4%2B+Years+of+Enterprise+Engineering" alt="Typing SVG" />
 
 <br/><br/>
 
